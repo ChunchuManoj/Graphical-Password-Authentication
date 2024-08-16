@@ -26,6 +26,7 @@ git clone https://github.com/ChunchuManoj/Graphical-Password-Authentication.git
 
 ```bash
 git clone https://github.com/ChunchuManoj/Graphical-Password-Authentication.git
+```
 
 <p>3. <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/server/README.md#installation">Installation of Server</a></p>
 <p>4. <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/client/README.md#installation">Installation of Client</a></p>
