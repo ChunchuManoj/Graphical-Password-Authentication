@@ -34,8 +34,8 @@ git clone https://github.com/ChunchuManoj/Graphical-Password-Authentication.git
 ## Usage
 To use the application, follow these steps:
 
-1. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/server#usage">Setup Server</a>
-2. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/client#usage">Setup Client</a>
+1. <a href="https://github.com/ChunchuManoj/graphical-password-authentication/tree/main/server#usage">Setup Server</a>
+2. <a href="https://github.com/ChunchuManoj/graphical-password-authentication/tree/main/client#usage">Setup Client</a>
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
@@ -45,5 +45,4 @@ If you would like to contribute to this project, please follow these steps:
 3. Make your changes and test them thoroughly.
 4. Submit a pull request to the **`develop`** branch.
 
-## License
-This project is licensed under the MIT License. See the <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/LICENSE">LICENSE</a> file for details.
+
